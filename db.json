@@ -1,0 +1,124 @@
+{
+  "Products": [
+    {
+      "name": "Xiaomi Smart Band 9",
+      "price": "63500 $",
+      "image": "https://i.postimg.cc/TPHNwNV5/1.webp",
+      "id": "1"
+    },
+    {
+      "name": "Xiaomi Redmi Watch 4",
+      "price": "137483 $",
+      "image": "https://i.postimg.cc/zBsdwLPJ/2.webp",
+      "id": "2"
+    },
+    {
+      "name": "Disco duro externo WD",
+      "price": "158989$",
+      "image": "https://i.postimg.cc/RhwggMjw/3.webp",
+      "id": "3"
+    },
+    {
+      "name": "Joystick Play Station",
+      "price": "155000$",
+      "image": "https://i.postimg.cc/FsQW7LLp/4.webp",
+      "id": "4"
+    },
+    {
+      "name": "Auricular in-ear gamer",
+      "price": "9280 $",
+      "image": "https://i.postimg.cc/h4mZDrfh/5.webp",
+      "id": "5"
+    },
+    {
+      "name": "Reproductor mp3",
+      "price": "130000 $",
+      "image": "https://i.postimg.cc/VLB7Mk98/6.webp",
+      "id": "6"
+    },
+    {
+      "name": "Tablet Samsung A9",
+      "price": "236000 $",
+      "image": "https://i.postimg.cc/7ZHKNrXT/7.webp",
+      "id": "7"
+    },
+    {
+      "name": "Cargador rapido de celular",
+      "price": "14369 $",
+      "image": "https://i.postimg.cc/XvXxTKRj/8.webp",
+      "id": "8"
+    },
+    {
+      "name": "Amazon Kindle",
+      "price": "224997 $",
+      "image": "https://i.postimg.cc/Z5wV7sDs/9.webp",
+      "id": "9"
+    },
+    {
+      "name": "Mouse Logitech",
+      "price": "62779 $",
+      "image": "https://i.postimg.cc/k5Zw96Cx/10.webp",
+      "id": "10"
+    },
+    {
+      "name": "Parlante portatil",
+      "price": "74099 $",
+      "image": "https://i.postimg.cc/LX1Ds94G/11.webp",
+      "id": "11"
+    },
+    {
+      "name": "Amazon Echo Dot",
+      "price": "93000$",
+      "image": "https://i.postimg.cc/66CzJpmv/12.webp",
+      "id": "12"
+    },
+    {
+      "name": "Monitor Samsung",
+      "price": "228379$",
+      "image": "https://i.postimg.cc/QCgqpfTb/13.webp",
+      "id": "13"
+    },
+    {
+      "name": "Samsung A35",
+      "price": "600000 $",
+      "image": "https://i.postimg.cc/QCZb92HC/14.webp",
+      "id": "14"
+    },
+    {
+      "name": "Ipad 10",
+      "price": "939990 $",
+      "image": "https://i.postimg.cc/28mGzNsX/15.webp",
+      "id": "15"
+    },
+    {
+      "name": "Mini teclado",
+      "price": "14749 $",
+      "image": "https://i.postimg.cc/7YVVhQDP/16.webp",
+      "id": "16"
+    },
+    {
+      "name": "Camara web",
+      "price": "48000 $",
+      "image": "https://i.postimg.cc/9QQB7tFd/17.webp",
+      "id": "17"
+    },
+    {
+      "name": "Gabinete gamer",
+      "price": "74000$",
+      "image": "https://i.postimg.cc/GpZPVWPK/18.webp",
+      "id": "18"
+    },
+    {
+      "name": "Aspiradora robot",
+      "price": "206000 $",
+      "image": "https://i.postimg.cc/VkZWBrd3/19.webp",
+      "id": "19"
+    },
+    {
+      "name": "Noteboock Asus",
+      "price": "618000 $",
+      "image": "https://i.postimg.cc/mrcNdL9h/20.webp",
+      "id": "20"
+    }
+  ]
+}
