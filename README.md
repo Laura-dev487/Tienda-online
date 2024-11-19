@@ -42,6 +42,6 @@ npm install
 
 4-Inicia el servidor de JSON SERVER:
 
-json-server --watch db.json --port 5000
+json-server --watch db.json --port 3001
 
 5-Abre el archivo index.html en tu navegador para ver la aplicación funcionando.
