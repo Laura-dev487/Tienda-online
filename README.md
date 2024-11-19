@@ -26,3 +26,22 @@ producto correspondiente de la API.
 Carga dinámica: Los productos se cargan dinámicamente desde la fake API,
 mostrando los detalles como nombre, precio e imagen.
 
+INSTALACIÓN Y EJECUCIÓN:
+
+1-Clona este repositorio en tu m áquina local:
+
+git clone https://github.com/Laura-dev487/Tienda-online.git
+
+2-Accede al directorio del proyecto:
+
+cd Tienda-online
+
+3-Instala las dependencia necesarias:
+
+npm install
+
+4-Inicia el servidor de JSON SERVER:
+
+json-server --watch db.json --port 5000
+
+5-Abre el archivo index.html en tu navegador para ver la aplicación funcionando.
