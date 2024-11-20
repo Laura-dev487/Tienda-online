@@ -111,8 +111,7 @@ renderProducts(productsShown);
       }
     });
     
-    // Ejecuta la función de renderizado inicial
-    renderProducts();
+ 
     
 
 
