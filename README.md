@@ -1,6 +1,8 @@
 Proyecto Fake API - Alura Challenge
 
-Este proyecto es una Fake API que simula una tienda en línea con 20 productos. 
+Este proyecto es una Fake API que simula una tienda en línea con 20 productos.
+Inicialmente se muestran 6 productos y al hacer clic en el boton de "Ver más" 
+se agregan 4 productos hasta un total de 20 donde el boton desaparece.
 Es un desafío realizado como parte del Alura Challenge para poner en práctica 
 habilidades de desarrollo web utilizando JSON Server como solución para crear
 una API REST falsa de manera rápida.
