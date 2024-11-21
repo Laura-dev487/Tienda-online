@@ -1,49 +1,46 @@
-Proyecto Fake API - Alura Challenge
 
-Este proyecto es una Fake API que simula una tienda en línea con 20 productos.
-Inicialmente se muestran 6 productos y al hacer clic en el boton de "Ver más" 
-se agregan 4 productos hasta un total de 20 donde el boton desaparece.
-Es un desafío realizado como parte del Alura Challenge para poner en práctica 
-habilidades de desarrollo web utilizando JSON Server como solución para crear
-una API REST falsa de manera rápida.
+**Tienda Online - Challenge AluraGeek**
 
-Características:
+**_Descripción_**
 
-Fake API: Utiliza JSON Server para simular una API REST con datos de productos.
-20 productos: Se incluyen 20 productos con propiedades como nombre, precio e imagen.
-Interacción con la API: Permite agregar, ver y eliminar productos de la lista.
-Interfaz web: La interfaz se construye con HTML, CSS y JavaScript, permitiendo
-una experiencia dinámica en la que los productos se cargan de manera interactiva.
+Este es un proyecto de tienda online que muestra un catálogo de 20 productos.
+Inicialmente, se cargan 6 productos y, al hacer clic en el botón "Ver más", 
+se agregan 4 productos adicionales cada vez, hasta completar los 20 productos disponibles.
 
-Tecnologías utilizadas:
-JSON Server: Para crear una API REST fake de manera sencilla.
-HTML, CSS, JavaScript: Para la creación de la interfaz de usuario.
-Fetch API: Para interactuar con la fake API y manipular los datos de productos.
-Node.js: Para ejecutar JSON Server en el entorno local.
+**_Funcionalidades_**
 
-Funcionalidades:
-Agregar productos: Permite agregar productos a la API mediante un formulario.
-Eliminar productos: Cada producto tiene un botón de eliminación que elimina el 
-producto correspondiente de la API.
-Carga dinámica: Los productos se cargan dinámicamente desde la fake API,
-mostrando los detalles como nombre, precio e imagen.
+Mostrar Productos Iniciales: Al cargar la página, se muestran 6 productos del catálogo.
 
-INSTALACIÓN Y EJECUCIÓN:
+Ver Más Productos: Al hacer clic en el botón "Ver más", se cargan 4 productos adicionales
+hasta un total de 20.
 
-1-Clona este repositorio en tu m áquina local:
+Agregar Productos: Los usuarios pueden agregar nuevos productos a través de un formulario.
 
-git clone https://github.com/Laura-dev487/Tienda-online.git
+Eliminar Productos: Los productos pueden ser eliminados mediante un botón de eliminación
+en cada tarjeta de producto.
 
-2-Accede al directorio del proyecto:
+**_Tecnologías Utilizadas_**
 
-cd Tienda-online
+Frontend: HTML, CSS, JavaScript
 
-3-Instala las dependencia necesarias:
+Backend Simulado: MockAPI (anteriormente se utilizaba JSON Server, pero se cambió a MockAPI
+debido a problemas de compatibilidad con dispositivos móviles)
 
-npm install
+API de Productos: MockAPI para manejar las operaciones de CRUD de los productos.
 
-4-Inicia el servidor de JSON SERVER:
+**_Uso del Proyecto_**
 
-json-server --watch db.json --port 3001
+Visualización Inicial: Al abrir la tienda, se muestran 6 productos del catálogo.
 
-5-Abre el archivo index.html en tu navegador para ver la aplicación funcionando.
+Cargar Más Productos: Haz clic en el botón "Ver más" para cargar 4 productos adicionales
+cada vez hasta completar los 20 productos disponibles.
+
+Agregar Productos: Completa el formulario con el nombre, precio y URL de la imagen del
+producto, luego haz clic en "Enviar" para agregarlo al catálogo.
+
+Eliminar Productos: Haz clic en el ícono de eliminar en cualquier tarjeta de producto 
+para eliminar ese producto del catálogo.
+
+**MockAPI**
+
+Este proyecto utiliza MockAPI para simular un backend y manejar las operaciones CRUD de los productos. Asegúrate de que los endpoints de MockAPI estén configurados correctamente en el archivo product-services.js.
