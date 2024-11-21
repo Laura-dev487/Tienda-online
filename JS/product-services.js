@@ -1,4 +1,4 @@
-const BASE_URL ="http://localhost:3001/Products";
+const BASE_URL ="https://673a1671a3a36b5a62f0b175.mockapi.io/Productos";
 
 const productList = async () => {
     try{
